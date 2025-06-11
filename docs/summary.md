@@ -1,6 +1,6 @@
 # Final Chapter: Course Summary & Next Steps
 
-Congratulations on completing this introductory Linux course! You've built a solid foundation in using the Linux command line, understanding system structure, managing files, and working with users and permissions.
+Congratulations on completing this introductory Linux course!<br> You've built a solid foundation in using the Linux command line, understanding system structure, managing files, and working with users and permissions.
 
 ---
 
